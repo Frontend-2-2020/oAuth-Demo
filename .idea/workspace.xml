@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025c2697-89c8-48ff-9b22-2c475b4f379c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/API.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/API.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +50,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584702689943</updated>
-      <workItem from="1584702692664" duration="2640000" />
+      <workItem from="1584702692664" duration="6420000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585153128971">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1417/0.23.1680.1002@0.23.1680.1002" timestamp="1585153128971" />
   </component>
 </project>
